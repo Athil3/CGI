@@ -1,2 +1,0 @@
-Selenium IDE
-Selenium Webdriver
